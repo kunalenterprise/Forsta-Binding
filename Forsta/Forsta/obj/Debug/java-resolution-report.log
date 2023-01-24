@@ -1,0 +1,97 @@
+==== Cycle 1 ====
+
+The method '[Method] void access$setContext$p(android.content.Context p0)' was removed because its name contains a dollar sign.
+The method '[Method] com.confirmit.mobilesdk.AccessTokenProvider getAccessTokenProvider$mobilesdk_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setAccessTokenProvider$mobilesdk_release(com.confirmit.mobilesdk.AccessTokenProvider p0)' was removed because its name contains a dollar sign.
+The method '[Method] void access$configureSurvey(com.confirmit.mobilesdk.SurveySDK p0, java.lang.String p1, java.lang.String p2)' was removed because its name contains a dollar sign.
+The method '[Method] kotlinx.coroutines.sync.Mutex access$getDashboardDownloadMutex$p()' was removed because its name contains a dollar sign.
+The method '[Method] com.confirmit.mobilesdk.utils.g access$getTokenTimeTracker$p()' was removed because its name contains a dollar sign.
+The method '[Method] kotlinx.coroutines.Deferred<com.confirmit.mobilesdk.SurveyDownloadResult> downloadSurveyAsync(java.lang.String p0, java.lang.String p1)' was removed because the Java return type 'kotlinx.coroutines.Deferred<com.confirmit.mobilesdk.SurveyDownloadResult>' could not be found.
+The method '[Method] com.confirmit.mobilesdk.SurveyScriptBridge getScriptBridge$mobilesdk_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.confirmit.mobilesdk.UniqueIdProvider getUniqueIdProvider$mobilesdk_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setScriptBridge$mobilesdk_release(com.confirmit.mobilesdk.SurveyScriptBridge p0)' was removed because its name contains a dollar sign.
+The method '[Method] void setUniqueIdProvider$mobilesdk_release(com.confirmit.mobilesdk.UniqueIdProvider p0)' was removed because its name contains a dollar sign.
+The method '[Method] kotlinx.coroutines.sync.Mutex access$getProgramDownloadMutex$p()' was removed because its name contains a dollar sign.
+The method '[Method] com.confirmit.mobilesdk.utils.g access$getTokenTimeTracker$p()' was removed because its name contains a dollar sign.
+The method '[Method] kotlinx.coroutines.Deferred<com.confirmit.mobilesdk.ProgramDownloadResult> downloadAsync(java.lang.String p0, java.lang.String p1)' was removed because the Java return type 'kotlinx.coroutines.Deferred<com.confirmit.mobilesdk.ProgramDownloadResult>' could not be found.
+The method '[Method] kotlinx.coroutines.Deferred<com.confirmit.mobilesdk.ProgramDownloadResult> downloadCountersAsync(java.lang.String p0, java.lang.String p1)' was removed because the Java return type 'kotlinx.coroutines.Deferred<com.confirmit.mobilesdk.ProgramDownloadResult>' could not be found.
+The method '[Method] com.confirmit.mobilesdk.ProgramScriptBridge getScriptBridge$mobilesdk_release()' was removed because its name contains a dollar sign.
+The method '[Method] void notifyAppFeedback$default(com.confirmit.mobilesdk.TriggerSDK p0, java.util.Map p1, int p2, java.lang.Object p3)' was removed because its name contains a dollar sign.
+The method '[Method] void notifyAppForeground$default(com.confirmit.mobilesdk.TriggerSDK p0, java.util.Map p1, int p2, java.lang.Object p3)' was removed because its name contains a dollar sign.
+The method '[Method] void notifyBeaconEnter$default(com.confirmit.mobilesdk.TriggerSDK p0, com.confirmit.mobilesdk.trigger.c p1, java.util.Map p2, int p3, java.lang.Object p4)' was removed because its name contains a dollar sign.
+The method '[Method] void notifyBeaconExit$default(com.confirmit.mobilesdk.TriggerSDK p0, com.confirmit.mobilesdk.trigger.c p1, java.util.Map p2, int p3, java.lang.Object p4)' was removed because its name contains a dollar sign.
+The method '[Method] void notifyEvent$default(com.confirmit.mobilesdk.TriggerSDK p0, java.lang.String p1, java.lang.String p2, java.lang.String p3, java.util.Map p4, int p5, java.lang.Object p6)' was removed because its name contains a dollar sign.
+The method '[Method] void notifyEvent$default(com.confirmit.mobilesdk.TriggerSDK p0, java.lang.String p1, java.util.Map p2, int p3, java.lang.Object p4)' was removed because its name contains a dollar sign.
+The method '[Method] void setScriptBridge$mobilesdk_release(com.confirmit.mobilesdk.ProgramScriptBridge p0)' was removed because its name contains a dollar sign.
+The class '[Class] com.confirmit.mobilesdk.core.managers.b.a' was removed because the Java base type 'kotlin.coroutines.jvm.internal.ContinuationImpl' could not be found.
+The class '[Class] com.confirmit.mobilesdk.core.scheduler.b' was removed because the Java base type 'kotlin.coroutines.jvm.internal.SuspendLambda' could not be found.
+The method '[Method] com.confirmit.mobilesdk.database.externals.ProgramUrl getProgramUrl$mobilesdk_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String getClientId$mobilesdk_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String getClientSecret$mobilesdk_release()' was removed because its name contains a dollar sign.
+The method '[Method] boolean getDeleted$mobilesdk_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.confirmit.mobilesdk.database.providers.room.b getProvider$mobilesdk_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.confirmit.mobilesdk.utils.i access$getEngineContext$delegate$cp()' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String access$getKey(com.confirmit.mobilesdk.scripting.trigger.rhino.TriggerRhinoExecutor p0, java.lang.String p1, java.lang.String p2, long p3)' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String access$jsGlobalScript(com.confirmit.mobilesdk.scripting.trigger.rhino.TriggerRhinoExecutor p0)' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String access$jsIifeContextScript(com.confirmit.mobilesdk.scripting.trigger.rhino.TriggerRhinoExecutor p0, java.lang.String p1, java.lang.String p2, long p3)' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String access$getProgramKey$p(com.confirmit.mobilesdk.scripting.trigger.rhino.objects.RhinoTriggerContextObj p0)' was removed because its name contains a dollar sign.
+The method '[Method] double access$getScenarioId$p(com.confirmit.mobilesdk.scripting.trigger.rhino.objects.RhinoTriggerContextObj p0)' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String access$getServerId$p(com.confirmit.mobilesdk.scripting.trigger.rhino.objects.RhinoTriggerContextObj p0)' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlinx.coroutines.Job' could not be found.
+The class '[Class] com.confirmit.mobilesdk.sync.domain.a' was removed because the Java base type 'kotlin.coroutines.jvm.internal.SuspendLambda' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlinx.coroutines.sync.Mutex' could not be found.
+The class '[Class] com.confirmit.mobilesdk.sync.domain.d' was removed because the Java base type 'kotlin.coroutines.jvm.internal.SuspendLambda' could not be found.
+The class '[Class] com.confirmit.mobilesdk.sync.domain.e' was removed because the Java base type 'kotlin.coroutines.jvm.internal.SuspendLambda' could not be found.
+The class '[Class] com.confirmit.mobilesdk.sync.domain.i' was removed because the Java base type 'kotlin.coroutines.jvm.internal.SuspendLambda' could not be found.
+The class '[Class] com.confirmit.mobilesdk.sync.domain.j' was removed because the Java base type 'kotlin.coroutines.jvm.internal.SuspendLambda' could not be found.
+The class '[Class] com.confirmit.mobilesdk.sync.domain.k' was removed because the Java base type 'kotlin.coroutines.jvm.internal.ContinuationImpl' could not be found.
+The class '[Class] com.confirmit.mobilesdk.sync.domain.l' was removed because the Java base type 'kotlin.coroutines.jvm.internal.SuspendLambda' could not be found.
+The class '[Class] com.confirmit.mobilesdk.sync.domain.m' was removed because the Java base type 'kotlin.coroutines.jvm.internal.ContinuationImpl' could not be found.
+The class '[Class] com.confirmit.mobilesdk.sync.domain.n' was removed because the Java base type 'kotlin.coroutines.jvm.internal.ContinuationImpl' could not be found.
+The class '[Class] com.confirmit.mobilesdk.sync.request.defaults.c.a' was removed because the Java base type 'kotlin.coroutines.jvm.internal.ContinuationImpl' could not be found.
+The method '[Method] java.util.List access$getChangeList(com.confirmit.mobilesdk.ui.SurveyFrame p0)' was removed because its name contains a dollar sign.
+The method '[Method] com.confirmit.mobilesdk.ui.SurveyFrame.EngineManager access$getEngineManager$p(com.confirmit.mobilesdk.ui.SurveyFrame p0)' was removed because its name contains a dollar sign.
+The method '[Method] void access$setStarted$p(com.confirmit.mobilesdk.ui.SurveyFrame p0, boolean p1)' was removed because its name contains a dollar sign.
+The method '[Method] com.confirmit.mobilesdk.surveyengine.i getEngineContext$mobilesdk_release()' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String getRespondentGuid$mobilesdk_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setRespondentGuid$mobilesdk_release(java.lang.String p0)' was removed because its name contains a dollar sign.
+The method '[Method] java.util.Map<java.lang.String, com.confirmit.mobilesdk.surveyengine.QuestionPageData> getChangedData$mobilesdk_release()' was removed because its name contains a dollar sign.
+The method '[Method] java.util.List<com.confirmit.mobilesdk.ui.ValidationQuestionError> getCurrentErrors$mobilesdk_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.confirmit.mobilesdk.ui.b getDataStore$mobilesdk_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.confirmit.mobilesdk.surveyengine.packages.question.a getItem$mobilesdk_release()' was removed because its name contains a dollar sign.
+The method '[Method] com.confirmit.mobilesdk.surveyengine.packages.question.domains.b getRootDeclarator$mobilesdk_release()' was removed because its name contains a dollar sign.
+The method '[Method] void setCurrentErrors$mobilesdk_release(java.util.List<com.confirmit.mobilesdk.ui.ValidationQuestionError> p0)' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The method '[Method] void add$mobilesdk_release(com.confirmit.mobilesdk.ui.questions.QuestionAnswer p0)' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The class '[Class] com.confirmit.mobilesdk.utils.e' was removed because the Java base type 'kotlin.coroutines.jvm.internal.SuspendLambda' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because the Java field type 'kotlinx.coroutines.sync.Mutex' could not be found.
+The class '[Class] com.confirmit.mobilesdk.utils.f.a' was removed because the Java base type 'kotlin.coroutines.jvm.internal.SuspendLambda' could not be found.
+The field 'Java.Interop.Tools.JavaTypeSystem.Models.JavaFieldModel' was removed because its name contains a dollar sign.
+The method '[Method] void access$finishWebView(com.confirmit.mobilesdk.web.SurveyWebViewFragment p0)' was removed because its name contains a dollar sign.
+The method '[Method] android.os.Handler access$getHandle$p(com.confirmit.mobilesdk.web.SurveyWebViewFragment p0)' was removed because its name contains a dollar sign.
+The method '[Method] com.confirmit.mobilesdk.core.managers.b access$getWebViewManager$p(com.confirmit.mobilesdk.web.SurveyWebViewFragment p0)' was removed because its name contains a dollar sign.
+The method '[Method] java.lang.String getProjectId$mobilesdk_release()' was removed because its name contains a dollar sign.
+The method '[Method] kotlinx.coroutines.Deferred<com.confirmit.mobilesdk.web.SurveyWebViewUrl> getSurveyUrlAsync()' was removed because the Java return type 'kotlinx.coroutines.Deferred<com.confirmit.mobilesdk.web.SurveyWebViewUrl>' could not be found.
+The method '[Method] void setupWebView$mobilesdk_release(java.lang.String p0, java.lang.String p1, double p2, java.lang.String p3, java.util.Map<java.lang.String, java.lang.String> p4)' was removed because its name contains a dollar sign.
+
+==== Cycle 2 ====
+
+The class '[Class] com.confirmit.mobilesdk.sync.request.defaults.c.b' was removed because the Java base type 'kotlin.coroutines.jvm.internal.ContinuationImpl' could not be found.
+The class '[Class] com.confirmit.mobilesdk.utils.f.b' was removed because the Java base type 'kotlin.coroutines.jvm.internal.ContinuationImpl' could not be found.
+
+==== Cycle 3 ====
+
+The class '[Class] com.confirmit.mobilesdk.sync.request.defaults.c.c' was removed because the Java base type 'kotlin.coroutines.jvm.internal.ContinuationImpl' could not be found.
+

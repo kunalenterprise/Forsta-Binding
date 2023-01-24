@@ -1,0 +1,185 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\Forsta Android Bindings\\Forsta\\Forsta\\Forsta.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\Forsta Android Bindings\\Forsta\\Forsta\\Forsta.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Forsta Android Bindings\\Forsta\\Forsta\\Forsta.csproj",
+        "projectName": "Forsta",
+        "projectPath": "D:\\Projects\\Forsta Android Bindings\\Forsta\\Forsta\\Forsta.csproj",
+        "packagesPath": "C:\\Users\\kunal\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Forsta Android Bindings\\Forsta\\Forsta\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kunal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid12.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid12.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid12.0": {
+          "dependencies": {
+            "GoogleGson": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Xamarin.AndroidX.Activity": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Xamarin.AndroidX.Annotation": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Xamarin.AndroidX.Annotation.Experimental": {
+              "target": "Package",
+              "version": "[1.2.0.2, )"
+            },
+            "Xamarin.AndroidX.AppCompat": {
+              "target": "Package",
+              "version": "[1.4.1, )"
+            },
+            "Xamarin.AndroidX.AppCompat.AppCompatResources": {
+              "target": "Package",
+              "version": "[1.4.1, )"
+            },
+            "Xamarin.AndroidX.Arch.Core.Runtime": {
+              "target": "Package",
+              "version": "[2.1.0.15, )"
+            },
+            "Xamarin.AndroidX.Collection": {
+              "target": "Package",
+              "version": "[1.2.0.2, )"
+            },
+            "Xamarin.AndroidX.Core": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "Xamarin.AndroidX.CursorAdapter": {
+              "target": "Package",
+              "version": "[1.0.0.12, )"
+            },
+            "Xamarin.AndroidX.DrawerLayout": {
+              "target": "Package",
+              "version": "[1.1.1.7, )"
+            },
+            "Xamarin.AndroidX.Emoji2": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Xamarin.AndroidX.Emoji2.ViewsHelper": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Xamarin.AndroidX.Fragment": {
+              "target": "Package",
+              "version": "[1.4.1, )"
+            },
+            "Xamarin.AndroidX.Lifecycle.Runtime": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "Xamarin.AndroidX.Lifecycle.ViewModel": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "Xamarin.AndroidX.ResourceInspection.Annotation": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Xamarin.AndroidX.Room.Common": {
+              "target": "Package",
+              "version": "[2.4.3, )"
+            },
+            "Xamarin.AndroidX.Room.Runtime": {
+              "target": "Package",
+              "version": "[2.4.3, )"
+            },
+            "Xamarin.AndroidX.SavedState": {
+              "target": "Package",
+              "version": "[1.1.0.6, )"
+            },
+            "Xamarin.AndroidX.Sqlite": {
+              "target": "Package",
+              "version": "[2.2.0.2, )"
+            },
+            "Xamarin.AndroidX.Sqlite.Framework": {
+              "target": "Package",
+              "version": "[2.2.0.2, )"
+            },
+            "Xamarin.AndroidX.WebKit": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Xamarin.Jetbrains.Annotations": {
+              "target": "Package",
+              "version": "[23.0.0.5, )"
+            },
+            "Xamarin.Kotlin.StdLib": {
+              "target": "Package",
+              "version": "[1.7.20.1, )"
+            },
+            "Xamarin.Kotlin.StdLib.Common": {
+              "target": "Package",
+              "version": "[1.7.20.1, )"
+            },
+            "Xamarin.Kotlin.StdLib.Jdk7": {
+              "target": "Package",
+              "version": "[1.6.21, )"
+            },
+            "Xamarin.Kotlin.StdLib.Jdk8": {
+              "target": "Package",
+              "version": "[1.6.21, )"
+            },
+            "Xamarin.KotlinX.Coroutines.Android": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.KotlinX.Coroutines.Core": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.KotlinX.Coroutines.Core.Jvm": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "XamarinLibrary.Xamarin.Android.Mozilla.Rhino": {
+              "target": "Package",
+              "version": "[1.7.9, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

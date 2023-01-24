@@ -1,0 +1,91 @@
+# Rhino
+-keep class org.mozilla.javascript.** { public *; }
+-dontwarn org.mozilla.javascript.**
+
+# Kotlin - Coroutine
+-keepclassmembernames class kotlinx.** {
+    volatile <fields>;
+}
+
+##---------------Begin: proguard configuration for Gson  ----------
+# Gson uses generic type information stored in a class file when working with fields. Proguard
+# removes such information by default, so configure it to keep all of it.
+-keepattributes Signature
+
+# For using GSON @Expose annotation
+-keepattributes *Annotation*
+
+# Gson specific classes
+-dontwarn sun.misc.**
+#-keep class com.google.gson.stream.** { *; }
+
+# Application classes that will be serialized/deserialized over Gson
+-keep class com.google.gson.examples.android.model.** { <fields>; }
+
+# Prevent proguard from stripping interface information from TypeAdapter, TypeAdapterFactory,
+# JsonSerializer, JsonDeserializer instances (so they can be used in @JsonAdapter)
+-keep class * extends com.google.gson.TypeAdapter
+-keep class * implements com.google.gson.TypeAdapterFactory
+-keep class * implements com.google.gson.JsonSerializer
+-keep class * implements com.google.gson.JsonDeserializer
+
+# Prevent R8 from leaving Data object members always null
+-keepclassmembers,allowobfuscation class * {
+  @com.google.gson.annotations.SerializedName <fields>;
+}
+
+# Retain generic signatures of TypeToken and its subclasses with R8 version 3.0 and higher.
+-keep,allowobfuscation,allowshrinking class com.google.gson.reflect.TypeToken
+-keep,allowobfuscation,allowshrinking class * extends com.google.gson.reflect.TypeToken
+
+##---------------End: proguard configuration for Gson  ----------
+
+# Disable repackage
+-keeppackagenames com.confirmit.**
+
+# keep class BuildConfig
+-keep class com.confirmit.mobilesdk.BuildConfig { *; }
+
+# keep class members of R
+-keep class com.confirmit.mobilesdk.R$* { *; }
+
+-keep interface com.confirmit.mobilesdk.** { *; }
+
+# Core
+-keep class com.confirmit.mobilesdk.ConfirmitSDK** { *; }
+-keep class com.confirmit.mobilesdk.SurveySDK** { *; }
+-keep class com.confirmit.mobilesdk.TriggerSDK** { *; }
+-keep class com.confirmit.mobilesdk.ProgramDownloadResult** { *; }
+-keep class com.confirmit.mobilesdk.trigger.ProgramCallback** { *; }
+-keep class com.confirmit.mobilesdk.trigger.TriggerInfo** { *; }
+-keep class com.confirmit.mobilesdk.SurveyDownloadResult { *; }
+-keep class com.confirmit.mobilesdk.ConfirmitServer { *; }
+
+# Utils
+-keep class com.confirmit.mobilesdk.utils.ServiceLocator
+
+# Database
+-keep class com.confirmit.mobilesdk.database.externals.* { *; }
+-keep class com.confirmit.mobilesdk.database.providers.room.RoomDataModule { *; }
+-keepclassmembers class com.confirmit.mobilesdk.** {
+  @androidx.room.* *;
+  @com.google.gson.annotations.SerializedName *;
+}
+
+# Ui
+-keep class com.confirmit.mobilesdk.ui.questions.* { *; }
+-keep class com.confirmit.mobilesdk.ui.SurveyFrame** { *; }
+-keep class com.confirmit.mobilesdk.ui.SurveyPage { *; }
+-keep class com.confirmit.mobilesdk.ui.ValidationQuestionError { *; }
+-keep enum com.confirmit.mobilesdk.ui.* { *; }
+
+# Web
+-keep class com.confirmit.mobilesdk.web.SurveyWebViewFragment** { *; }
+-keep class com.confirmit.mobilesdk.web.SurveyWebViewUrl** { *; }
+-keep class com.confirmit.mobilesdk.web.BaseWebViewFragment** { *; }
+
+# Scripting
+-keep class com.confirmit.mobilesdk.scripting.surveyengine.rhino.objects.* { *; }
+-keep class com.confirmit.mobilesdk.scripting.surveyengine.rhino.RhinoExecutor* { *; }
+-keep class com.confirmit.mobilesdk.scripting.trigger.rhino.objects.* { *; }
+-keep class com.confirmit.mobilesdk.scripting.trigger.rhino.TriggerRhinoExecutor* { *; }

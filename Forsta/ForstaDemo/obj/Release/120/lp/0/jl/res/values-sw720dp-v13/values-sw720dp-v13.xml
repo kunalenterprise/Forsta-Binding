@@ -1,0 +1,1 @@
+<resources><integer name="screen_type">1</integer><integer name="transitionSpeed">500</integer><style name="Theme.ConfirmitSDK.Dialog" parent="Theme.AppCompat.Dialog" /></resources>

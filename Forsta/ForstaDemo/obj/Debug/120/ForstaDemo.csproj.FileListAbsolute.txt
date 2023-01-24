@@ -1,0 +1,786 @@
+D:\Projects\Xamarin Bindings\ForstaDemo\bin\Debug\ForstaDemo.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\bin\Debug\ForstaDemo.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\bin\Debug\com.companyname.forstademo.apk
+D:\Projects\Xamarin Bindings\ForstaDemo\bin\Debug\com.companyname.forstademo.aab
+D:\Projects\Xamarin Bindings\ForstaDemo\bin\Debug\com.companyname.forstademo-Signed.aab
+D:\Projects\Xamarin Bindings\ForstaDemo\bin\Debug\com.companyname.forstademo-Signed.apk
+D:\Projects\Xamarin Bindings\ForstaDemo\bin\Debug\com.companyname.forstademo-Signed.apk.idsig
+D:\Projects\Xamarin Bindings\ForstaDemo\bin\Debug\Forsta.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\bin\Debug\Forsta.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\bin\Debug\Forsta.xml
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\MonoAndroid,Version=v12.0.AssemblyAttributes.cs
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\build.props
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\adb.props
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\ForstaDemo.csproj.AssemblyReference.cache
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\stamp\_BuildLibraryImportsCache.stamp
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\res.flag
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\lp\0\jl\files.cache
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\lp\55\jl\files.cache
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\lp\66\jl\files.cache
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\lp\67\jl\files.cache
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\lp\68\jl\files.cache
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\lp\75\jl\files.cache
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\lp\76\jl\files.cache
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\lp\77\jl\files.cache
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\lp\79\jl\files.cache
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\lp\80\jl\files.cache
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\lp\81\jl\files.cache
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\lp\82\jl\files.cache
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\lp\83\jl\files.cache
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\lp\85\jl\files.cache
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\lp\87\jl\files.cache
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\lp\90\jl\files.cache
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\lp\93\jl\files.cache
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\lp\95\jl\files.cache
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\lp\98\jl\files.cache
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\lp\99\jl\files.cache
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\lp\100\jl\files.cache
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\lp\101\jl\files.cache
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\lp\102\jl\files.cache
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\lp\103\jl\files.cache
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\lp\104\jl\files.cache
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\lp\106\jl\files.cache
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\lp\107\jl\files.cache
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\lp\108\jl\files.cache
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\R.txt
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\R.cs.flag
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\ForstaDemo.csproj.CoreCompileInputs.cache
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\ForstaDemo.csproj.CopyComplete
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\ForstaDemo.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\ForstaDemo.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\bin\com.companyname.forstademo.apk
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\bin\base.zip
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\bin\com.companyname.forstademo.aab
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\bin\com.companyname.forstademo.apks
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\res\layout\activity_main.xml
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\res\values\colors.xml
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\res\values\ic_launcher_background.xml
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\res\values\strings.xml
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\res\values\styles.xml
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\res\mipmap-anydpi-v26\ic_launcher.xml
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\res\mipmap-anydpi-v26\ic_launcher_round.xml
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\res\mipmap-hdpi\ic_launcher.png
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\res\mipmap-hdpi\ic_launcher_foreground.png
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\res\mipmap-hdpi\ic_launcher_round.png
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\res\mipmap-mdpi\ic_launcher.png
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\res\mipmap-mdpi\ic_launcher_foreground.png
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\res\mipmap-mdpi\ic_launcher_round.png
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\res\mipmap-xhdpi\ic_launcher.png
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\res\mipmap-xhdpi\ic_launcher_foreground.png
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\res\mipmap-xhdpi\ic_launcher_round.png
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\res\mipmap-xxhdpi\ic_launcher.png
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\res\mipmap-xxhdpi\ic_launcher_foreground.png
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\res\mipmap-xxhdpi\ic_launcher_round.png
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\res\mipmap-xxxhdpi\ic_launcher.png
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\res\mipmap-xxxhdpi\ic_launcher_round.png
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\uploadflags.txt
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\resolvedassemblies.hash
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Forsta.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Forsta.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\ForstaDemo.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\ForstaDemo.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\GoogleGson.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Java.Interop.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Java.Interop.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Mono.Android.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Mono.Android.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Mono.Security.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Mono.Security.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\mscorlib.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\mscorlib.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\RhinoBinding.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\System.ComponentModel.Composition.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\System.ComponentModel.Composition.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\System.Core.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\System.Core.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\System.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\System.Drawing.Common.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\System.Drawing.Common.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\System.Net.Http.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\System.Net.Http.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\System.Numerics.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\System.Numerics.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\System.Numerics.Vectors.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\System.Numerics.Vectors.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\System.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\System.Runtime.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\System.Xml.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\System.Xml.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Activity.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Activity.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Annotation.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Annotation.Experimental.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Annotation.Experimental.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Annotation.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.AppCompat.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.AppCompat.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Browser.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Browser.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.CardView.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.CardView.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Collection.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Collection.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Concurrent.Futures.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Concurrent.Futures.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Core.Core.Ktx.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Core.Core.Ktx.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Core.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Core.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.CursorAdapter.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.CustomView.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.CustomView.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.DocumentFile.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.DocumentFile.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Emoji2.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Emoji2.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Emoji2.ViewsHelper.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Emoji2.ViewsHelper.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Fragment.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Fragment.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Interpolator.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Interpolator.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.Process.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.Process.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Loader.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Loader.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.MultiDex.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.MultiDex.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Print.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Print.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.RecyclerView.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.ResourceInspection.Annotation.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.ResourceInspection.Annotation.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Room.Common.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Room.Common.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Room.Runtime.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Room.Runtime.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.SavedState.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.SavedState.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Sqlite.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Sqlite.Framework.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Sqlite.Framework.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Sqlite.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Startup.StartupRuntime.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Startup.StartupRuntime.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Tracing.Tracing.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Tracing.Tracing.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Transition.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Transition.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.VectorDrawable.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.ViewPager.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.ViewPager.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.WebKit.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.WebKit.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.Essentials.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.Essentials.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.Google.Android.Material.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.Google.Android.Material.pdb
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.Jetbrains.Annotations.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.Kotlin.StdLib.Common.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.Kotlin.StdLib.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.Kotlin.StdLib.Jdk7.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.Kotlin.StdLib.Jdk8.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.KotlinX.Coroutines.Android.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.KotlinX.Coroutines.Core.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\Xamarin.KotlinX.Coroutines.Core.Jvm.dll
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\typemaps.arm64-v8a.s
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\typemaps.armeabi-v7a.s
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\typemaps.x86.s
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\typemaps.x86_64.s
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\typemaps.armeabi-v7a-shared.inc
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\typemaps.shared.inc
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\AndroidManifest.xml
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\AndroidManifest.xml
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\__environment__.txt
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\MonoRuntimeProvider.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\assets\machine.config
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\bin\mono.android.jar
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\static.flag
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\buildid.txt
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\environment.arm64-v8a.s
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\environment.armeabi-v7a.s
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\environment.x86.s
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\environment.x86_64.s
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\androidx\activity\R.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\androidx\annotation\experimental\R.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\androidx\appcompat\R.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\androidx\appcompat\resources\R.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\androidx\browser\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\androidx\browser\R.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\androidx\cardview\R.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\androidx\coordinatorlayout\R.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\androidx\core\ktx\R.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\androidx\core\R.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\androidx\drawerlayout\R.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\androidx\emoji2\R.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\androidx\emoji2\viewsintegration\R.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\androidx\fragment\R.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\androidx\lifecycle\livedata\core\R.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\androidx\lifecycle\process\R.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\androidx\lifecycle\runtime\R.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\androidx\lifecycle\viewmodel\R.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\androidx\lifecycle\viewmodel\savedstate\R.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\androidx\recyclerview\R.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\androidx\room\R.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\androidx\savedstate\R.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\androidx\sqlite\db\framework\R.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\androidx\sqlite\db\R.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\androidx\startup\R.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\androidx\transition\R.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\com\confirmit\mobilesdk\R.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\com\google\android\material\R.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\crc64396a3fe5f8138e3f\CustomTabsServiceConnectionImpl.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\crc64396a3fe5f8138e3f\KeepAliveService.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\IntermediateActivity.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\Listener.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorIntermediateActivity.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\crc64feca9bdbf20c442c\ForstaApplication.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\crc64feca9bdbf20c442c\MainActivity.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\activity\contextaware\OnContextAvailableListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\appcompat\app\ActionBar_OnNavigationListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\appcompat\app\ActionBar_TabListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\appcompat\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\appcompat\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\appcompat\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\appcompat\widget\MenuItemHoverListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\appcompat\widget\PopupMenu_OnDismissListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\appcompat\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\appcompat\widget\SearchView_OnCloseListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\appcompat\widget\SearchView_OnQueryTextListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\appcompat\widget\SearchView_OnSuggestionListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\appcompat\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\appcompat\widget\ViewStubCompat_OnInflateListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\asynclayoutinflater\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\core\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\core\os\CancellationSignal_OnCancelListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\core\view\DragStartHelper_OnDragStartListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\core\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\core\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\core\view\OnApplyWindowInsetsListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\core\view\OnReceiveContentListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\core\view\ViewPropertyAnimatorListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\core\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\core\view\WindowInsetsControllerCompat_OnControllableInsetsChangedListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\fragment\app\FragmentOnAttachListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\fragment\app\FragmentResultListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\fragment\app\strictmode\FragmentStrictMode_OnViolationListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\loader\content\Loader_OnLoadCanceledListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\loader\content\Loader_OnLoadCompleteListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\recyclerview\widget\AsyncListDiffer_ListListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\recyclerview\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\slidingpanelayout\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\transition\Transition_TransitionListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\androidx\webkit\WebViewCompat_WebMessageListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\android\app\ApplicationRegistration.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\com\confirmit\mobilesdk\ui\SurveyFrameLifecycleListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\com\confirmit\mobilesdk\web\WrappedWebViewClient_OnWebViewListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\com\google\android\material\behavior\SwipeDismissBehavior_OnDismissListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\com\google\android\material\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\com\google\android\material\navigation\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\MonoPackageManager_Resources.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\mono\org\mozilla\javascript\ContextFactory_ListenerImplementor.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\xamarin\essentials\fileProvider.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\bin\packaged_resources
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\src\com\companyname\forstademo\R.java
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\compressed_assemblies.arm64-v8a.s
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\compressed_assemblies.armeabi-v7a.s
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\compressed_assemblies.x86.s
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\compressed_assemblies.x86_64.s
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\typemaps.arm64-v8a.o
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\typemaps.armeabi-v7a.o
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\typemaps.x86.o
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\typemaps.x86_64.o
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\environment.arm64-v8a.o
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\environment.armeabi-v7a.o
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\environment.x86.o
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\environment.x86_64.o
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\compressed_assemblies.arm64-v8a.o
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\compressed_assemblies.armeabi-v7a.o
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\compressed_assemblies.x86.o
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\compressed_assemblies.x86_64.o
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\app_shared_libraries\arm64-v8a\libxamarin-app.so
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\app_shared_libraries\x86\libxamarin-app.so
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\app_shared_libraries\x86_64\libxamarin-app.so
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\android\bin\classes.dex
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\stamp\_CleanIntermediateIfNeeded.stamp
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\stamp\_CompileToDalvik.stamp
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\stamp\_ConvertCustomView.stamp
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\stamp\_ConvertResourcesCases.stamp
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\stamp\_GenerateJavaStubs.stamp
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\stamp\_GeneratePackageManagerJava.stamp
+D:\Projects\Xamarin Bindings\ForstaDemo\obj\Debug\120\stamp\_ResolveLibraryProjectImports.stamp
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\bin\Debug\ForstaDemo.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\bin\Debug\ForstaDemo.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\bin\Debug\com.companyname.forstademo.apk
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\bin\Debug\com.companyname.forstademo.aab
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\bin\Debug\com.companyname.forstademo-Signed.aab
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\bin\Debug\com.companyname.forstademo-Signed.apk
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\bin\Debug\com.companyname.forstademo-Signed.apk.idsig
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\bin\Debug\Forsta.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\bin\Debug\Forsta.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\bin\Debug\Forsta.xml
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\MonoAndroid,Version=v12.0.AssemblyAttributes.cs
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\build.props
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\adb.props
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\ForstaDemo.csproj.AssemblyReference.cache
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\stamp\_BuildLibraryImportsCache.stamp
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\res.flag
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\lp\0\jl\files.cache
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\lp\55\jl\files.cache
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\lp\66\jl\files.cache
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\lp\67\jl\files.cache
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\lp\68\jl\files.cache
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\lp\75\jl\files.cache
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\lp\76\jl\files.cache
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\lp\77\jl\files.cache
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\lp\79\jl\files.cache
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\lp\80\jl\files.cache
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\lp\81\jl\files.cache
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\lp\82\jl\files.cache
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\lp\83\jl\files.cache
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\lp\85\jl\files.cache
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\lp\87\jl\files.cache
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\lp\90\jl\files.cache
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\lp\93\jl\files.cache
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\lp\95\jl\files.cache
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\lp\98\jl\files.cache
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\lp\99\jl\files.cache
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\lp\100\jl\files.cache
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\lp\101\jl\files.cache
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\lp\102\jl\files.cache
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\lp\103\jl\files.cache
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\lp\104\jl\files.cache
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\lp\106\jl\files.cache
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\lp\107\jl\files.cache
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\lp\108\jl\files.cache
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\R.txt
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\R.cs.flag
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\ForstaDemo.csproj.CoreCompileInputs.cache
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\ForstaDemo.csproj.CopyComplete
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\ForstaDemo.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\ForstaDemo.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\bin\com.companyname.forstademo.apk
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\bin\base.zip
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\bin\com.companyname.forstademo.aab
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\bin\com.companyname.forstademo.apks
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\res\layout\activity_main.xml
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\res\values\colors.xml
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\res\values\ic_launcher_background.xml
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\res\values\strings.xml
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\res\values\styles.xml
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\res\mipmap-anydpi-v26\ic_launcher.xml
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\res\mipmap-anydpi-v26\ic_launcher_round.xml
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\res\mipmap-hdpi\ic_launcher.png
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\res\mipmap-hdpi\ic_launcher_foreground.png
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\res\mipmap-hdpi\ic_launcher_round.png
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\res\mipmap-mdpi\ic_launcher.png
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\res\mipmap-mdpi\ic_launcher_foreground.png
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\res\mipmap-mdpi\ic_launcher_round.png
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\res\mipmap-xhdpi\ic_launcher.png
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\res\mipmap-xhdpi\ic_launcher_foreground.png
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\res\mipmap-xhdpi\ic_launcher_round.png
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\res\mipmap-xxhdpi\ic_launcher.png
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\res\mipmap-xxhdpi\ic_launcher_foreground.png
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\res\mipmap-xxhdpi\ic_launcher_round.png
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\res\mipmap-xxxhdpi\ic_launcher.png
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\res\mipmap-xxxhdpi\ic_launcher_round.png
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\uploadflags.txt
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\resolvedassemblies.hash
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Forsta.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Forsta.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\ForstaDemo.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\ForstaDemo.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\GoogleGson.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Java.Interop.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Java.Interop.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Mono.Android.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Mono.Android.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Mono.Security.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Mono.Security.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\mscorlib.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\mscorlib.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\RhinoBinding.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\System.ComponentModel.Composition.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\System.ComponentModel.Composition.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\System.Core.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\System.Core.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\System.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\System.Drawing.Common.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\System.Drawing.Common.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\System.Net.Http.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\System.Net.Http.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\System.Numerics.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\System.Numerics.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\System.Numerics.Vectors.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\System.Numerics.Vectors.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\System.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\System.Runtime.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\System.Xml.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\System.Xml.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Activity.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Activity.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Annotation.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Annotation.Experimental.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Annotation.Experimental.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Annotation.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.AppCompat.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.AppCompat.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Browser.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Browser.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.CardView.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.CardView.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Collection.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Collection.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Concurrent.Futures.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Concurrent.Futures.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Core.Core.Ktx.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Core.Core.Ktx.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Core.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Core.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.CursorAdapter.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.CustomView.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.CustomView.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.DocumentFile.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.DocumentFile.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Emoji2.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Emoji2.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Emoji2.ViewsHelper.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Emoji2.ViewsHelper.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Fragment.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Fragment.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Interpolator.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Interpolator.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.Process.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.Process.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Loader.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Loader.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.MultiDex.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.MultiDex.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Print.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Print.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.RecyclerView.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.ResourceInspection.Annotation.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.ResourceInspection.Annotation.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Room.Common.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Room.Common.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Room.Runtime.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Room.Runtime.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.SavedState.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.SavedState.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Sqlite.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Sqlite.Framework.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Sqlite.Framework.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Sqlite.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Startup.StartupRuntime.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Startup.StartupRuntime.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Tracing.Tracing.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Tracing.Tracing.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Transition.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.Transition.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.VectorDrawable.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.ViewPager.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.ViewPager.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.WebKit.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.AndroidX.WebKit.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.Essentials.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.Essentials.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.Google.Android.Material.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.Google.Android.Material.pdb
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.Jetbrains.Annotations.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.Kotlin.StdLib.Common.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.Kotlin.StdLib.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.Kotlin.StdLib.Jdk7.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.Kotlin.StdLib.Jdk8.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.KotlinX.Coroutines.Android.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.KotlinX.Coroutines.Core.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\Xamarin.KotlinX.Coroutines.Core.Jvm.dll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\typemaps.arm64-v8a.ll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\typemaps.armeabi-v7a.ll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\typemaps.x86.ll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\typemaps.x86_64.ll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\AndroidManifest.xml
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\AndroidManifest.xml
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\__environment__.txt
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\MonoRuntimeProvider.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\assets\machine.config
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\bin\mono.android.jar
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\static.flag
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\buildid.txt
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\environment.arm64-v8a.ll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\environment.armeabi-v7a.ll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\environment.x86.ll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\environment.x86_64.ll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\androidx\activity\R.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\androidx\annotation\experimental\R.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\androidx\appcompat\R.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\androidx\appcompat\resources\R.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\androidx\browser\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\androidx\browser\R.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\androidx\cardview\R.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\androidx\coordinatorlayout\R.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\androidx\core\ktx\R.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\androidx\core\R.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\androidx\drawerlayout\R.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\androidx\emoji2\R.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\androidx\emoji2\viewsintegration\R.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\androidx\fragment\R.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\androidx\lifecycle\livedata\core\R.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\androidx\lifecycle\process\R.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\androidx\lifecycle\runtime\R.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\androidx\lifecycle\viewmodel\R.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\androidx\lifecycle\viewmodel\savedstate\R.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\androidx\recyclerview\R.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\androidx\room\R.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\androidx\savedstate\R.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\androidx\sqlite\db\framework\R.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\androidx\sqlite\db\R.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\androidx\startup\R.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\androidx\transition\R.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\com\confirmit\mobilesdk\R.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\com\google\android\material\R.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\crc64396a3fe5f8138e3f\CustomTabsServiceConnectionImpl.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\crc64396a3fe5f8138e3f\KeepAliveService.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\IntermediateActivity.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\Listener.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorIntermediateActivity.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\crc64feca9bdbf20c442c\ForstaApplication.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\crc64feca9bdbf20c442c\MainActivity.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\activity\contextaware\OnContextAvailableListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\appcompat\app\ActionBar_OnNavigationListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\appcompat\app\ActionBar_TabListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\appcompat\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\appcompat\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\appcompat\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\appcompat\widget\MenuItemHoverListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\appcompat\widget\PopupMenu_OnDismissListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\appcompat\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\appcompat\widget\SearchView_OnCloseListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\appcompat\widget\SearchView_OnQueryTextListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\appcompat\widget\SearchView_OnSuggestionListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\appcompat\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\appcompat\widget\ViewStubCompat_OnInflateListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\asynclayoutinflater\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\core\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\core\os\CancellationSignal_OnCancelListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\core\view\DragStartHelper_OnDragStartListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\core\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\core\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\core\view\OnApplyWindowInsetsListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\core\view\OnReceiveContentListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\core\view\ViewPropertyAnimatorListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\core\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\core\view\WindowInsetsControllerCompat_OnControllableInsetsChangedListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\fragment\app\FragmentOnAttachListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\fragment\app\FragmentResultListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\fragment\app\strictmode\FragmentStrictMode_OnViolationListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\loader\content\Loader_OnLoadCanceledListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\loader\content\Loader_OnLoadCompleteListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\recyclerview\widget\AsyncListDiffer_ListListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\recyclerview\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\slidingpanelayout\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\transition\Transition_TransitionListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\androidx\webkit\WebViewCompat_WebMessageListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\android\app\ApplicationRegistration.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\com\confirmit\mobilesdk\surveyengine\EngineLifeCycleListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\com\confirmit\mobilesdk\ui\SurveyFrameLifecycleListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\com\confirmit\mobilesdk\web\WrappedWebViewClient_OnWebViewListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\com\google\android\material\behavior\SwipeDismissBehavior_OnDismissListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\com\google\android\material\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\com\google\android\material\navigation\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\MonoPackageManager_Resources.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\mono\org\mozilla\javascript\ContextFactory_ListenerImplementor.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\xamarin\essentials\fileProvider.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\bin\packaged_resources
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\src\com\companyname\forstademo\R.java
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\compressed_assemblies.arm64-v8a.ll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\compressed_assemblies.armeabi-v7a.ll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\compressed_assemblies.x86.ll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\compressed_assemblies.x86_64.ll
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\typemaps.arm64-v8a.o
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\typemaps.armeabi-v7a.o
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\typemaps.x86.o
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\typemaps.x86_64.o
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\environment.arm64-v8a.o
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\environment.armeabi-v7a.o
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\environment.x86.o
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\environment.x86_64.o
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\compressed_assemblies.arm64-v8a.o
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\compressed_assemblies.armeabi-v7a.o
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\compressed_assemblies.x86.o
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\compressed_assemblies.x86_64.o
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\jni_remap.arm64-v8a.o
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\jni_remap.armeabi-v7a.o
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\jni_remap.x86.o
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\jni_remap.x86_64.o
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\app_shared_libraries\arm64-v8a\libxamarin-app.so
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\app_shared_libraries\x86\libxamarin-app.so
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\app_shared_libraries\x86_64\libxamarin-app.so
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\android\bin\classes.dex
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\stamp\_CleanIntermediateIfNeeded.stamp
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\stamp\_CompileJava.stamp
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\stamp\_CompileToDalvik.stamp
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\stamp\_ConvertCustomView.stamp
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\stamp\_ConvertResourcesCases.stamp
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\stamp\_GenerateJavaStubs.stamp
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\stamp\_GeneratePackageManagerJava.stamp
+D:\Projects\Forsta Android Bindings\Forsta\ForstaDemo\obj\Debug\120\stamp\_ResolveLibraryProjectImports.stamp

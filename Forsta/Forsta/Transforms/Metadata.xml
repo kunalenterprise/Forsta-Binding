@@ -1,0 +1,807 @@
+﻿<metadata>
+  <!-- Remove Node -->
+  <remove-node path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.validators']/class[@name='a']" />
+  <remove-node path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.validators']/class[@name='b']" />
+  <remove-node path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.validators']/class[@name='c']" />
+  <remove-node path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.validators']/class[@name='d']" />
+  <remove-node path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.validators']/class[@name='e']" />
+  <remove-node path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.validators']/class[@name='f']" />
+  <remove-node path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.validators']/class[@name='g']" />
+  <remove-node path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.validators']/class[@name='h']" />
+
+  <remove-node path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='a']" />
+  <remove-node path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='b']" />
+  <remove-node path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='c']" />
+  <remove-node path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='d']" />
+  <remove-node path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='e']" />
+  <remove-node path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='f']" />
+  <remove-node path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='g']" />
+  <remove-node path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='h']" />
+  <remove-node path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='i']" />
+  <remove-node path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='j']" />
+  <remove-node path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='k']" />
+  <remove-node path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='l']" />
+  <remove-node path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='m']" />
+  <remove-node path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='n']" />
+  <remove-node path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='o']" />
+  <remove-node path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='p']" />
+  <remove-node path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='q']" />
+  <remove-node path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='r']" />
+  <remove-node path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='s']" />
+  <remove-node path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='t']" />
+  <remove-node path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='u']" />
+  <remove-node path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='v']" />
+  <remove-node path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='w']" />
+  <remove-node path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='x']" />
+  <remove-node path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='y']" />
+  
+  <!--Core Folder -->
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core']/class[@name='b']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core']/class[@name='c']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core']/class[@name='d']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core']/class[@name='e']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core']/class[@name='f']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core']/class[@name='g']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core']/class[@name='h']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core']/class[@name='i']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core']/class[@name='a']" name="managedName">CoreA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core']/class[@name='b']" name="managedName">CoreB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core']/class[@name='c']" name="managedName">CoreC</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core']/class[@name='d']" name="managedName">CoreD</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core']/class[@name='e']" name="managedName">CoreE</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core']/class[@name='f']" name="managedName">CoreF</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core']/class[@name='g']" name="managedName">CoreG</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core']/class[@name='h']" name="managedName">CoreH</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core']/class[@name='i']" name="managedName">CoreI</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core.exceptions']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core.exceptions']/class[@name='b']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core.exceptions']/class[@name='c']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core.exceptions']/class[@name='a']" name="managedName">CoreExceptionsA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core.exceptions']/class[@name='b']" name="managedName">CoreExceptionsB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core.exceptions']/class[@name='c']" name="managedName">CoreExceptionsC</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core.framework']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core.framework']/class[@name='b']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core.framework']/class[@name='a']" name="managedName">CoreFrameworkA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core.framework']/class[@name='b']" name="managedName">CoreFrameworkB</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core.framework.extmodules']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core.framework.extmodules']/class[@name='b']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core.framework.extmodules']/class[@name='a']" name="managedName">CoreFrameworkExtModulesA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core.framework.extmodules']/class[@name='b']" name="managedName">CoreFrameworkExtModulesB</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core.managers']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core.managers']/class[@name='b']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core.managers']/class[@name='a']" name="managedName">CoreManagersA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core.managers']/class[@name='b']" name="managedName">CoreManagersB</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core.scheduler']/class[@name='a']" name="obfuscated">false</attr>
+  <!--<attr path="/api/package[@name='com.confirmit.mobilesdk.core.scheduler']/class[@name='b']" name="obfuscated">false</attr>-->
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core.scheduler']/class[@name='c']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core.scheduler']/class[@name='d']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core.scheduler']/class[@name='a']" name="managedName">CoreSchedulerA</attr>
+  <!--<attr path="/api/package[@name='com.confirmit.mobilesdk.core.scheduler']/class[@name='b']" name="managedName">CoreSchedulerB</attr>-->
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core.scheduler']/class[@name='c']" name="managedName">CoreSchedulerC</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.core.scheduler']/class[@name='d']" name="managedName">CoreSchedulerD</attr>
+
+
+  <!--Database Folder -->
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room']/class[@name='a']" name="managedName">DatabaseA</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room']/class[@name='b']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room']/class[@name='a']" name="managedName">ProvidersRoomA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room']/class[@name='b']" name="managedName">ProvidersRoomB</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.dao']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.dao']/class[@name='b']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.dao']/class[@name='c']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.dao']/class[@name='d']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.dao']/class[@name='e']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.dao']/class[@name='f']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.dao']/class[@name='g']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.dao']/class[@name='h']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.dao']/class[@name='i']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.dao']/class[@name='j']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.dao']/class[@name='a']" name="managedName">DaoCustomDataA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.dao']/class[@name='b']" name="managedName">DaoPrefsB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.dao']/class[@name='c']" name="managedName">DaoProgramsC</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.dao']/class[@name='d']" name="managedName">DaoProgramPrefD</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.dao']/class[@name='e']" name="managedName">DaoRespondentsE</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.dao']/class[@name='f']" name="managedName">DaoRespondentValuesF</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.dao']/class[@name='g']" name="managedName">DaoResponseControlsG</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.dao']/class[@name='h']" name="managedName">DaoResponsesH</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.dao']/class[@name='i']" name="managedName">DaoScenarioCounterI</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.dao']/class[@name='j']" name="managedName">DaoScenarioJ</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.domain']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.domain']/class[@name='b']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.domain']/class[@name='c']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.domain']/class[@name='d']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.domain']/class[@name='e']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.domain']/class[@name='f']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.domain']/class[@name='g']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.domain']/class[@name='h']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.domain']/class[@name='i']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.domain']/class[@name='j']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.domain']/class[@name='k']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.domain']/class[@name='l']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.domain']/class[@name='m']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.domain']/class[@name='a']" name="managedName">ProvidersRoomDomainA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.domain']/class[@name='b']" name="managedName">ProvidersRoomDomainB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.domain']/class[@name='c']" name="managedName">ProvidersRoomDomainC</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.domain']/class[@name='d']" name="managedName">ProvidersRoomDomainD</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.domain']/class[@name='e']" name="managedName">ProvidersRoomDomainE</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.domain']/class[@name='f']" name="managedName">ProvidersRoomDomainF</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.domain']/class[@name='g']" name="managedName">ProvidersRoomDomainG</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.domain']/class[@name='h']" name="managedName">ProvidersRoomDomainH</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.domain']/class[@name='i']" name="managedName">ProvidersRoomDomainI</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.domain']/class[@name='j']" name="managedName">ProvidersRoomDomainJ</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.domain']/class[@name='k']" name="managedName">ProvidersRoomDomainK</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.domain']/class[@name='l']" name="managedName">ProvidersRoomDomainL</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.domain']/class[@name='m']" name="managedName">ProvidersRoomDomainM</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.model']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.model']/class[@name='b']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.model']/class[@name='c']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.model']/class[@name='d']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.model']/class[@name='e']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.model']/class[@name='f']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.model']/class[@name='g']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.model']/class[@name='h']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.model']/class[@name='i']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.model']/class[@name='j']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.model']/class[@name='k']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.model']/class[@name='l']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.model']/class[@name='a']" name="managedName">CustomData</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.model']/class[@name='b']" name="managedName">Prefs</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.model']/class[@name='c']" name="managedName">Programs</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.model']/class[@name='d']" name="managedName">ProgramPref</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.model']/class[@name='e']" name="managedName">Respondents</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.model']/class[@name='f']" name="managedName">RespondentValues</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.model']/class[@name='g']" name="managedName">ResponseControls</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.model']/class[@name='h']" name="managedName">Responses</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.model']/class[@name='i']" name="managedName">ScenarioCounter</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.model']/class[@name='j']" name="managedName">Scenario</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.model']/class[@name='k']" name="managedName">Servers</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room.model']/class[@name='l']" name="managedName">Surveys</attr>
+
+  
+  <!-- Exts Folder -->
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.exts']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.exts']/class[@name='b']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.exts']/class[@name='c']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.exts']/class[@name='d']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.exts']/class[@name='e']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.exts']/class[@name='a']" name="managedName">ExtsA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.exts']/class[@name='b']" name="managedName">ExtsB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.exts']/class[@name='c']" name="managedName">ExtsC</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.exts']/class[@name='d']" name="managedName">ExtsD</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.exts']/class[@name='e']" name="managedName">ExtsE</attr>
+  
+  
+  <!-- Scripting Folder -->
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.scripting.common']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.scripting.common']/class[@name='b']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.scripting.common']/class[@name='a']" name="managedName">ScriptingCommonA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.scripting.common']/class[@name='b']" name="managedName">ScriptingCommonB</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.scripting.surveyengine.common.exprobjs']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.scripting.surveyengine.common.exprobjs']/class[@name='b']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.scripting.surveyengine.common.exprobjs']/class[@name='c']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.scripting.surveyengine.common.exprobjs']/class[@name='d']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.scripting.surveyengine.common.exprobjs']/class[@name='e']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.scripting.surveyengine.common.exprobjs']/class[@name='f']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.scripting.surveyengine.common.exprobjs']/class[@name='a']" name="managedName">CommonExprobA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.scripting.surveyengine.common.exprobjs']/class[@name='b']" name="managedName">CommonExprobB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.scripting.surveyengine.common.exprobjs']/class[@name='c']" name="managedName">CommonExprobC</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.scripting.surveyengine.common.exprobjs']/class[@name='d']" name="managedName">CommonExprobD</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.scripting.surveyengine.common.exprobjs']/class[@name='e']" name="managedName">CommonExprobE</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.scripting.surveyengine.common.exprobjs']/class[@name='f']" name="managedName">CommonExprobF</attr>
+  
+  
+  <!--SurveyEngine Folder -->
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='a0']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='b']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='c']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='d']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='e']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='f']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='g']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='h']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='i']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='j']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='k']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='l']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='m']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='n']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='o']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='p']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='q']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='r']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='s']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='t']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='u']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='v']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='w']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='x']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='y']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='z']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='a']" name="managedName">SurveyengineA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='a0']" name="managedName">SurveyengineAO</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='b']" name="managedName">SurveyengineB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='c']" name="managedName">SurveyengineC</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='d']" name="managedName">SurveyengineD</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='e']" name="managedName">SurveyengineE</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='f']" name="managedName">SurveyengineF</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='g']" name="managedName">SurveyengineG</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='h']" name="managedName">SurveyengineH</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='i']" name="managedName">SurveyengineI</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='j']" name="managedName">SurveyengineJ</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='k']" name="managedName">SurveyengineK</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='l']" name="managedName">SurveyengineL</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='m']" name="managedName">SurveyengineM</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='n']" name="managedName">SurveyengineN</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='o']" name="managedName">SurveyengineO</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='p']" name="managedName">SurveyengineP</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='q']" name="managedName">SurveyengineQ</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='r']" name="managedName">SurveyengineR</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='s']" name="managedName">SurveyengineS</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='t']" name="managedName">SurveyengineT</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='u']" name="managedName">SurveyengineU</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='v']" name="managedName">SurveyengineV</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='w']" name="managedName">SurveyengineW</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='x']" name="managedName">SurveyengineX</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='y']" name="managedName">SurveyengineY</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='z']" name="managedName">SurveyengineZ</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.data']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.data']/class[@name='b']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.data.store']/class[@name='a']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.data']/class[@name='a']" name="managedName">SurveyEngineDataA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.data']/class[@name='b']" name="managedName">SurveyEngineDataB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.data.store']/class[@name='a']" name="managedName">SurveyEngineDataStoreA</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='b']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='c']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='d']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='e']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='f']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='g']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='h']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='i']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='j']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='k']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='l']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='m']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='n']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='o']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='p']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='q']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='a']" name="managedName">SurveyEngineManagersA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='b']" name="managedName">SurveyEngineManagersB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='c']" name="managedName">SurveyEngineManagersC</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='d']" name="managedName">SurveyEngineManagersD</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='e']" name="managedName">SurveyEngineManagersE</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='f']" name="managedName">SurveyEngineManagersF</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='g']" name="managedName">SurveyEngineManagersG</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='h']" name="managedName">SurveyEngineManagersH</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='i']" name="managedName">SurveyEngineManagersI</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='j']" name="managedName">SurveyEngineManagersJ</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='k']" name="managedName">SurveyEngineManagersK</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='l']" name="managedName">SurveyEngineManagersL</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='m']" name="managedName">SurveyEngineManagersM</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='n']" name="managedName">SurveyEngineManagersN</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='o']" name="managedName">SurveyEngineManagersO</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='p']" name="managedName">SurveyEngineManagersP</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='q']" name="managedName">SurveyEngineManagersQ</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages']/class[@name='b']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages']/class[@name='c']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages']/class[@name='d']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages']/class[@name='e']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages']/class[@name='f']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages']/class[@name='g']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages']/class[@name='a']" name="managedName">SurveyEnginePackagesA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages']/class[@name='b']" name="managedName">SurveyEnginePackagesB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages']/class[@name='c']" name="managedName">SurveyEnginePackagesC</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages']/class[@name='d']" name="managedName">SurveyEnginePackagesD</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages']/class[@name='e']" name="managedName">SurveyEnginePackagesE</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages']/class[@name='f']" name="managedName">SurveyEnginePackagesF</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages']/class[@name='g']" name="managedName">SurveyEnginePackagesG</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='b']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='c']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='d']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='e']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='f']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='g']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='h']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='i']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='j']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='k']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='l']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='m']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='n']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='o']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='p']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='q']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='r']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='s']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='t']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='a']" name="managedName">SurveyEnginePackagesActionsA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='b']" name="managedName">SurveyEnginePackagesActionsB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='c']" name="managedName">SurveyEnginePackagesActionsC</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='d']" name="managedName">SurveyEnginePackagesActionsD</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='e']" name="managedName">SurveyEnginePackagesActionsE</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='f']" name="managedName">SurveyEnginePackagesActionsF</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='g']" name="managedName">SurveyEnginePackagesActionsG</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='h']" name="managedName">SurveyEnginePackagesActionsH</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='i']" name="managedName">SurveyEnginePackagesActionsI</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='j']" name="managedName">SurveyEnginePackagesActionsJ</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='k']" name="managedName">SurveyEnginePackagesActionsK</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='l']" name="managedName">SurveyEnginePackagesActionsL</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='m']" name="managedName">SurveyEnginePackagesActionsM</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='n']" name="managedName">SurveyEnginePackagesActionsN</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='o']" name="managedName">SurveyEnginePackagesActionsO</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='p']" name="managedName">SurveyEnginePackagesActionsP</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='q']" name="managedName">SurveyEnginePackagesActionsQ</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='r']" name="managedName">SurveyEnginePackagesActionsR</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='s']" name="managedName">SurveyEnginePackagesActionsS</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.actions']/class[@name='t']" name="managedName">SurveyEnginePackagesActionsT</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question']/class[@name='b']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question']/class[@name='c']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question']/class[@name='d']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question']/class[@name='e']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question']/class[@name='f']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question']/class[@name='g']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question']/class[@name='h']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question']/class[@name='i']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question']/class[@name='j']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question']/class[@name='k']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question']/class[@name='l']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question']/class[@name='m']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question']/class[@name='n']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question']/class[@name='o']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question']/class[@name='a']" name="managedName">SurveyEnginePackagesQuestionA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question']/class[@name='b']" name="managedName">SurveyEnginePackagesQuestionB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question']/class[@name='c']" name="managedName">SurveyEnginePackagesQuestionC</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question']/class[@name='d']" name="managedName">SurveyEnginePackagesQuestionD</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question']/class[@name='e']" name="managedName">SurveyEnginePackagesQuestionE</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question']/class[@name='f']" name="managedName">SurveyEnginePackagesQuestionF</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question']/class[@name='g']" name="managedName">SurveyEnginePackagesQuestionG</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question']/class[@name='h']" name="managedName">SurveyEnginePackagesQuestionH</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question']/class[@name='i']" name="managedName">SurveyEnginePackagesQuestionI</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question']/class[@name='j']" name="managedName">SurveyEnginePackagesQuestionJ</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question']/class[@name='k']" name="managedName">SurveyEnginePackagesQuestionK</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question']/class[@name='l']" name="managedName">SurveyEnginePackagesQuestionL</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question']/class[@name='m']" name="managedName">SurveyEnginePackagesQuestionM</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question']/class[@name='n']" name="managedName">SurveyEnginePackagesQuestionN</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question']/class[@name='o']" name="managedName">SurveyEnginePackagesQuestionO</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question.constraints']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question.constraints']/class[@name='b']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question.constraints']/class[@name='c']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question.constraints']/class[@name='d']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question.constraints']/class[@name='e']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question.constraints']/class[@name='f']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question.constraints']/class[@name='g']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question.constraints']/class[@name='a']" name="managedName">SurveyEnginePackagesQuestionConstraintsA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question.constraints']/class[@name='b']" name="managedName">SurveyEnginePackagesQuestionConstraintsB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question.constraints']/class[@name='c']" name="managedName">SurveyEnginePackagesQuestionConstraintsC</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question.constraints']/class[@name='d']" name="managedName">SurveyEnginePackagesQuestionConstraintsD</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question.constraints']/class[@name='e']" name="managedName">SurveyEnginePackagesQuestionConstraintsE</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question.constraints']/class[@name='f']" name="managedName">SurveyEnginePackagesQuestionConstraintsF</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question.constraints']/class[@name='g']" name="managedName">SurveyEnginePackagesQuestionConstraintsG</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question.domains']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question.domains']/class[@name='b']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question.domains']/class[@name='c']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question.domains']/class[@name='d']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question.domains']/class[@name='e']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question.domains']/class[@name='a']" name="managedName">SurveyEnginePackagesQuestionDomainsA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question.domains']/class[@name='b']" name="managedName">SurveyEnginePackagesQuestionDomainsB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question.domains']/class[@name='c']" name="managedName">SurveyEnginePackagesQuestionDomainsC</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question.domains']/class[@name='d']" name="managedName">SurveyEnginePackagesQuestionDomainsD</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question.domains']/class[@name='e']" name="managedName">SurveyEnginePackagesQuestionDomainsE</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner']/class[@name='b']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner']/class[@name='a']" name="managedName">SurveyEngineRunnerA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner']/class[@name='b']" name="managedName">SurveyEngineRunnerB</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.loop']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.loop']/class[@name='b']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.loop']/class[@name='a']" name="managedName">SurveyEngineRunnerLoopA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.loop']/class[@name='b']" name="managedName">SurveyEngineRunnerLoopB</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stacks']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stacks']/class[@name='b']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stacks']/class[@name='a']" name="managedName">SurveyEngineRunnerStacksA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stacks']/class[@name='b']" name="managedName">SurveyEngineRunnerStacksB</attr>
+
+  <!--<attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='b']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='c']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='d']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='e']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='f']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='g']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='h']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='i']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='j']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='k']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='l']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='m']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='n']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='o']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='p']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='q']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='r']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='s']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='t']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='u']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='v']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='w']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='x']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='y']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='a']" name="managedName">SurveyEngineRunnerStateActionA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='b']" name="managedName">SurveyEngineRunnerStateActionB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='c']" name="managedName">SurveyEngineRunnerStateActionC</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='d']" name="managedName">SurveyEngineRunnerStateActionD</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='e']" name="managedName">SurveyEngineRunnerStateActionE</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='f']" name="managedName">SurveyEngineRunnerStateActionF</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='g']" name="managedName">SurveyEngineRunnerStateActionG</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='h']" name="managedName">SurveyEngineRunnerStateActionH</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='i']" name="managedName">SurveyEngineRunnerStateActionI</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='j']" name="managedName">SurveyEngineRunnerStateActionJ</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='k']" name="managedName">SurveyEngineRunnerStateActionK</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='l']" name="managedName">SurveyEngineRunnerStateActionL</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='m']" name="managedName">SurveyEngineRunnerStateActionM</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='n']" name="managedName">SurveyEngineRunnerStateActionN</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='o']" name="managedName">SurveyEngineRunnerStateActionO</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='p']" name="managedName">SurveyEngineRunnerStateActionP</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='q']" name="managedName">SurveyEngineRunnerStateActionQ</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='r']" name="managedName">SurveyEngineRunnerStateActionR</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='s']" name="managedName">SurveyEngineRunnerStateActionS</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='t']" name="managedName">SurveyEngineRunnerStateActionT</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='u']" name="managedName">SurveyEngineRunnerStateActionU</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='v']" name="managedName">SurveyEngineRunnerStateActionV</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='w']" name="managedName">SurveyEngineRunnerStateActionW</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='x']" name="managedName">SurveyEngineRunnerStateActionX</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stateaction']/class[@name='y']" name="managedName">SurveyEngineRunnerStateActionY</attr>-->
+
+  <!--<attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.validators']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.validators']/class[@name='b']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.validators']/class[@name='c']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.validators']/class[@name='d']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.validators']/class[@name='e']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.validators']/class[@name='f']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.validators']/class[@name='g']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.validators']/class[@name='h']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.validators']/class[@name='a']" name="managedName">SurveyEngineValidatorsA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.validators']/class[@name='b']" name="managedName">SurveyEngineValidatorsB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.validators']/class[@name='c']" name="managedName">SurveyEngineValidatorsC</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.validators']/class[@name='d']" name="managedName">SurveyEngineValidatorsD</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.validators']/class[@name='e']" name="managedName">SurveyEngineValidatorsE</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.validators']/class[@name='f']" name="managedName">SurveyEngineValidatorsF</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.validators']/class[@name='g']" name="managedName">SurveyEngineValidatorsG</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.validators']/class[@name='h']" name="managedName">SurveyEngineValidatorsH</attr>-->
+
+
+  <!--Sync Folder -->
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync']/class[@name='b']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync']/class[@name='a']" name="managedName">SyncA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync']/class[@name='b']" name="managedName">SyncB</attr>
+
+  <!--<attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain']/class[@name='a']" name="obfuscated">false</attr>-->
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain']/class[@name='b']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain']/class[@name='c']" name="obfuscated">false</attr>
+  <!--<attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain']/class[@name='d']" name="obfuscated">false</attr>-->
+  <!--<attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain']/class[@name='e']" name="obfuscated">false</attr>-->
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain']/class[@name='f']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain']/class[@name='g']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain']/class[@name='h']" name="obfuscated">false</attr>
+  <!--<attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain']/class[@name='i']" name="obfuscated">false</attr>-->
+  <!--<attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain']/class[@name='j']" name="obfuscated">false</attr>-->
+  <!--<attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain']/class[@name='k']" name="obfuscated">false</attr>-->
+  <!--<attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain']/class[@name='l']" name="obfuscated">false</attr>-->
+  <!--<attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain']/class[@name='m']" name="obfuscated">false</attr>-->
+  <!--<attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain']/class[@name='n']" name="obfuscated">false</attr>-->
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain']/class[@name='o']" name="obfuscated">false</attr>
+
+  <!--<attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain']/class[@name='a']" name="managedName">SyncDomainA</attr>-->
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain']/class[@name='b']" name="managedName">SyncDomainB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain']/class[@name='c']" name="managedName">SyncDomainC</attr>
+  <!--<attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain']/class[@name='d']" name="managedName">SyncDomainD</attr>-->
+  <!--<attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain']/class[@name='e']" name="managedName">SyncDomainE</attr>-->
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain']/class[@name='f']" name="managedName">SyncDomainF</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain']/class[@name='g']" name="managedName">SyncDomainG</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain']/class[@name='h']" name="managedName">SyncDomainH</attr>
+  <!--<attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain']/class[@name='i']" name="managedName">SyncDomainI</attr>-->
+  <!--<attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain']/class[@name='j']" name="managedName">SyncDomainJ</attr>-->
+  <!--<attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain']/class[@name='k']" name="managedName">SyncDomainK</attr>-->
+  <!--<attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain']/class[@name='l']" name="managedName">SyncDomainL</attr>-->
+  <!--<attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain']/class[@name='m']" name="managedName">SyncDomainM</attr>-->
+  <!--<attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain']/class[@name='n']" name="managedName">SyncDomainN</attr>-->
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain']/class[@name='o']" name="managedName">SyncDomainO</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain.infos']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain.infos']/class[@name='a']" name="managedName">SyncDomainInfosA</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.payloads']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.payloads']/class[@name='b']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.payloads']/class[@name='c']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.payloads']/class[@name='d']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.payloads']/class[@name='e']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.payloads']/class[@name='a']" name="managedName">SyncPayloadsA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.payloads']/class[@name='b']" name="managedName">SyncPayloadsB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.payloads']/class[@name='c']" name="managedName">SyncPayloadsC</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.payloads']/class[@name='d']" name="managedName">SyncPayloadsD</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.payloads']/class[@name='e']" name="managedName">SyncPayloadsE</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.request']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.request']/class[@name='b']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.request']/class[@name='c']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.request']/class[@name='a']" name="managedName">SyncRequestA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.request']/class[@name='b']" name="managedName">SyncRequestB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.request']/class[@name='c']" name="managedName">SyncRequestC</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.request.defaults']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.request.defaults']/class[@name='b']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.request.defaults']/class[@name='c']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.request.defaults']/class[@name='d']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.request.defaults']/class[@name='e']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.request.defaults']/class[@name='a']" name="managedName">SyncRequestDefaultsA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.request.defaults']/class[@name='b']" name="managedName">SyncRequestDefaultsB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.request.defaults']/class[@name='c']" name="managedName">SyncRequestDefaultsC</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.request.defaults']/class[@name='d']" name="managedName">SyncRequestDefaultsD</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.request.defaults']/class[@name='e']" name="managedName">SyncRequestDefaultsE</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.responsemodels']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.responsemodels']/class[@name='b']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.responsemodels']/class[@name='c']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.responsemodels']/class[@name='d']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.responsemodels']/class[@name='e']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.responsemodels']/class[@name='a']" name="managedName">SyncResponseModelsA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.responsemodels']/class[@name='b']" name="managedName">SyncResponseModelsB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.responsemodels']/class[@name='c']" name="managedName">SyncResponseModelssC</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.responsemodels']/class[@name='d']" name="managedName">SyncResponseModelsD</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.responsemodels']/class[@name='e']" name="managedName">SyncResponseModelsE</attr>
+
+
+  <!-- Trigger Folder -->
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.trigger']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.trigger']/class[@name='b']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.trigger']/class[@name='c']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.trigger']/class[@name='d']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.trigger']/class[@name='e']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.trigger']/class[@name='a']" name="managedName">TriggerA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.trigger']/class[@name='b']" name="managedName">TriggerB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.trigger']/class[@name='c']" name="managedName">TriggerC</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.trigger']/class[@name='d']" name="managedName">TriggerD</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.trigger']/class[@name='e']" name="managedName">TriggerE</attr>
+
+
+  <!-- Ui Folder -->
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.ui']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.ui']/class[@name='b']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.ui']/class[@name='a']" name="managedName">UIA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.ui']/class[@name='b']" name="managedName">UIB</attr>
+
+
+  <!-- Utils Folder -->
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.utils']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.utils']/class[@name='b']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.utils']/class[@name='c']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.utils']/class[@name='d']" name="obfuscated">false</attr>
+  <!--<attr path="/api/package[@name='com.confirmit.mobilesdk.utils']/class[@name='e']" name="obfuscated">false</attr>-->
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.utils']/class[@name='f']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.utils']/class[@name='g']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.utils']/class[@name='h']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.utils']/class[@name='i']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.utils']/class[@name='a']" name="managedName">UtilsA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.utils']/class[@name='b']" name="managedName">UtilsB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.utils']/class[@name='c']" name="managedName">UtilsC</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.utils']/class[@name='d']" name="managedName">UtilsD</attr>
+  <!--<attr path="/api/package[@name='com.confirmit.mobilesdk.utils']/class[@name='e']" name="managedName">UtilsE</attr>-->
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.utils']/class[@name='f']" name="managedName">UtilsF</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.utils']/class[@name='g']" name="managedName">UtilsG</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.utils']/class[@name='h']" name="managedName">UtilsH</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.utils']/class[@name='i']" name="managedName">UtilsI</attr>
+
+
+  <!-- Web Folder -->
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.web']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.web']/class[@name='b']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.web']/class[@name='c']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.web']/class[@name='a']" name="managedName">WebA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.web']/class[@name='b']" name="managedName">WebB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.web']/class[@name='c']" name="managedName">WebC</attr>
+
+
+  <!-- Root Folder -->
+  <attr path="/api/package[@name='com.confirmit.mobilesdk']/class[@name='a']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk']/class[@name='b']" name="obfuscated">false</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk']/class[@name='a']" name="managedName">RootA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk']/class[@name='b']" name="managedName">RootB</attr>
+
+  <attr path="api/package[@name='com.confirmit.mobilesdk.core']/class[@name='g']/method[@name='a']" name="managedName">CoreGFuncA</attr>
+  <attr path="api/package[@name='com.confirmit.mobilesdk.core']/class[@name='i']/method[@name='a']" name="managedName">CoreIFuncA</attr>
+  <attr path="api/package[@name='com.confirmit.mobilesdk.core']/class[@name='i']/method[@name='b']" name="managedName">CoreIFuncB</attr>
+  <attr path="api/package[@name='com.confirmit.mobilesdk.core.framework.extmodules']/class[@name='a']/method[@name='a']" name="managedName">ExtModulesA</attr>
+  <attr path="api/package[@name='com.confirmit.mobilesdk.core.managers']/class[@name='b']/method[@name='a']" name="managedName">CoreManagersObjA</attr>
+  <attr path="api/package[@name='com.confirmit.mobilesdk.core.scheduler']/class[@name='d']/method[@name='a']" name="managedName">CoreschedulerVoidA</attr>
+  <attr path="api/package[@name='com.confirmit.mobilesdk.core.scheduler']/class[@name='d']/method[@name='b']" name="managedName">CoreSchedulerVoidB</attr>
+  
+  
+
+  <attr path="api/package[@name='com.confirmit.mobilesdk.database']/class[@name='a']/field[@name='a']" name="managedName">ADataModule</attr>
+
+  <attr path="api/package[@name='com.confirmit.mobilesdk.database.providers.room']/class[@name='RoomCoreDatabase_Impl']/field[@name='a']" name="managedName">RoomPrefDaoObjA</attr>
+  <attr path="api/package[@name='com.confirmit.mobilesdk.database.providers.room']/class[@name='RoomCoreDatabase_Impl']/field[@name='b']" name="managedName">RoomServerDaoObjB</attr>
+  <attr path="api/package[@name='com.confirmit.mobilesdk.database.providers.room']/class[@name='RoomCoreDatabase_Impl']/field[@name='c']" name="managedName">RoomSurveyDaoObjC</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room']/class[@name='RoomCoreDatabase_Impl']/method[@name='getAutoMigrations']" name="managedName">RoomCoreDatabaseImplGetAutoMigrations</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room']/class[@name='RoomCoreDatabase_Impl']/method[@name='getRequiredTypeConverters' and count(parameter)=0]" name="visibility">protected</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room']/class[@name='RoomCoreDatabase_Impl']/method[@name='createInvalidationTracker' and count(parameter)=0]" name="visibility">protected</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room']/class[@name='RoomCoreDatabase_Impl']/method[@name='createOpenHelper' and count(parameter)=1 and parameter[1][@type='androidx.room.DatabaseConfiguration']]" name="visibility">protected</attr>
+
+  <attr path="api/package[@name='com.confirmit.mobilesdk.database.providers.room']/class[@name='RoomResponseDatabase_Impl']/field[@name='a']" name="managedName">RoomResponseDaoObjA</attr>
+  <attr path="api/package[@name='com.confirmit.mobilesdk.database.providers.room']/class[@name='RoomResponseDatabase_Impl']/field[@name='b']" name="managedName">RoomCustomDataDaoObjB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room']/class[@name='RoomResponseDatabase_Impl']/method[@name='getAutoMigrations']" name="managedName">RoomResponseDatabaseImplGetAutoMigrations</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room']/class[@name='RoomResponseDatabase_Impl']/method[@name='getRequiredTypeConverters' and count(parameter)=0]" name="visibility">protected</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room']/class[@name='RoomResponseDatabase_Impl']/method[@name='createInvalidationTracker' and count(parameter)=0]" name="visibility">protected</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room']/class[@name='RoomResponseDatabase_Impl']/method[@name='createOpenHelper' and count(parameter)=1 and parameter[1][@type='androidx.room.DatabaseConfiguration']]" name="visibility">protected</attr>
+
+  <attr path="api/package[@name='com.confirmit.mobilesdk.database.providers.room']/class[@name='RoomSurveyDatabase_Impl']/field[@name='a']" name="managedName">RoomRespondentDaoObjA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room']/class[@name='RoomSurveyDatabase_Impl']/method[@name='getAutoMigrations']" name="managedName">RoomSurveyDatabaseImplGetAutoMigrations</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room']/class[@name='RoomSurveyDatabase_Impl']/method[@name='getRequiredTypeConverters' and count(parameter)=0]" name="visibility">protected</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room']/class[@name='RoomSurveyDatabase_Impl']/method[@name='createInvalidationTracker' and count(parameter)=0]" name="visibility">protected</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room']/class[@name='RoomSurveyDatabase_Impl']/method[@name='createOpenHelper' and count(parameter)=1 and parameter[1][@type='androidx.room.DatabaseConfiguration']]" name="visibility">protected</attr>
+
+  <attr path="api/package[@name='com.confirmit.mobilesdk.database.providers.room']/class[@name='RoomTriggerDatabase_Impl']/field[@name='a']" name="managedName">RoomPrefDaoObjA</attr>
+  <attr path="api/package[@name='com.confirmit.mobilesdk.database.providers.room']/class[@name='RoomTriggerDatabase_Impl']/field[@name='b']" name="managedName">RoomProgramPrefDaoObjB</attr>
+  <attr path="api/package[@name='com.confirmit.mobilesdk.database.providers.room']/class[@name='RoomTriggerDatabase_Impl']/field[@name='c']" name="managedName">RoomScenarioDaoObjC</attr>
+  <attr path="api/package[@name='com.confirmit.mobilesdk.database.providers.room']/class[@name='RoomTriggerDatabase_Impl']/field[@name='d']" name="managedName">RoomScenarioCounterDaoObjC</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room']/class[@name='RoomTriggerDatabase_Impl']/method[@name='getAutoMigrations']" name="managedName">RoomTriggerDatabaseImplGetAutoMigrations</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room']/class[@name='RoomTriggerDatabase_Impl']/method[@name='getRequiredTypeConverters' and count(parameter)=0]" name="visibility">protected</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room']/class[@name='RoomTriggerDatabase_Impl']/method[@name='createInvalidationTracker' and count(parameter)=0]" name="visibility">protected</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.database.providers.room']/class[@name='RoomTriggerDatabase_Impl']/method[@name='createOpenHelper' and count(parameter)=1 and parameter[1][@type='androidx.room.DatabaseConfiguration']]" name="visibility">protected</attr>
+
+  <attr path="api/package[@name='com.confirmit.mobilesdk.database.providers.room']/class[@name='b']/method[@name='a']" name="managedName">ProvidersRoomAFuncA</attr>
+  <attr path="api/package[@name='com.confirmit.mobilesdk.database.providers.room']/class[@name='b']/method[@name='b']" name="managedName">ProvidersRoomBFuncA</attr>
+  
+  <attr path="api/package[@name='com.confirmit.mobilesdk.database.providers.room.domain']/class[@name='a']/method[@name='a']" name="managedName">ProvidersRoomDomainAFuncA</attr>
+  <attr path="api/package[@name='com.confirmit.mobilesdk.database.providers.room.domain']/class[@name='b']/method[@name='a']" name="managedName">ProvidersRoomDomainBFuncA</attr>
+  <attr path="api/package[@name='com.confirmit.mobilesdk.database.providers.room.domain']/class[@name='c']/method[@name='a']" name="managedName">ProvidersRoomDomainCFuncA</attr>
+  <attr path="api/package[@name='com.confirmit.mobilesdk.database.providers.room.domain']/class[@name='d']/method[@name='a']" name="managedName">ProvidersRoomDomainDFuncA</attr>
+  <attr path="api/package[@name='com.confirmit.mobilesdk.database.providers.room.domain']/class[@name='h']/method[@name='a']" name="managedName">ProvidersRoomDomainHFuncA</attr>
+  <attr path="api/package[@name='com.confirmit.mobilesdk.database.providers.room.domain']/class[@name='i']/method[@name='a']" name="managedName">ProvidersRoomDomainIFuncA</attr>
+  <attr path="api/package[@name='com.confirmit.mobilesdk.database.providers.room.domain']/class[@name='l']/method[@name='a']" name="managedName">ProvidersRoomDomainLFuncA</attr>
+  
+  
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.web']/class[@name='SurveyWebViewFragment']/field[@name='Companion']" name="managedName">ForstaCompanion</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.web']/class[@name='BaseWebViewFragment']/field[@name='webView']" name="managedName">ForstaWebView</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.web']/class[@name='BaseWebViewFragment']/field[@name='progressBar']" name="managedName">ForstaProgressBar</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.scripting.trigger']/interface[@name='TriggerScriptExecutor']" name="visibility">public</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.scripting.surveyengine.rhino']/class[@name='RhinoExecutor']/field[@name='Companion']" name="managedName">RhinoCompanion</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.scripting.surveyengine.common.exprobjs']/class[@name='a']/field[@name='g']" name="managedName">ExProbjsAStringG</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.scripting.surveyengine.common.exprobjs']/class[@name='a']/field[@name='h']" name="managedName">ExProbjsAListH</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.scripting.surveyengine.common.exprobjs']/class[@name='a']/field[@name='i']" name="managedName">ExProbjsAListI</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.scripting.surveyengine.common.exprobjs']/class[@name='b']/field[@name='g']" name="managedName">ExProbjsBListG</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.scripting.surveyengine.common.exprobjs']/class[@name='b']/field[@name='h']" name="managedName">ExProbjsBListH</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.scripting.surveyengine.common.exprobjs']/class[@name='b']/field[@name='i']" name="managedName">ExProbjsBDictI</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.scripting.surveyengine.common.exprobjs']/class[@name='d']/field[@name='a']" name="managedName">ExProbjsDObjA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.scripting.surveyengine.common.exprobjs']/class[@name='d']/field[@name='b']" name="managedName">ExProbjsDObjB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.scripting.surveyengine.common.exprobjs']/class[@name='d']/field[@name='c']" name="managedName">ExProbjsDObjC</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.scripting.surveyengine.common.exprobjs']/class[@name='d']/field[@name='d']" name="managedName">ExProbjsDObjD</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.scripting.surveyengine.common.exprobjs']/class[@name='d']/field[@name='e']" name="managedName">ExProbjsDObjE</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.scripting.surveyengine.common.exprobjs']/class[@name='d']/field[@name='f']" name="managedName">ExProbjsDObjF</attr>
+
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.data.store']/interface[@name='SurveyDataStore']" name="visibility">public</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/interface[@name='EngineModule']" name="visibility">public</attr>
+
+  <!--<attr path="/api/package[@name='kotlin.coroutines.jvm.internal']/interface[@name='SuspendLambda']" name="visibility">public</attr>-->
+  
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='i']/field[@name='a']" name="managedName">SurveyEngineIObjA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='i']/field[@name='b']" name="managedName">SurveyEngineIObjB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='i']/field[@name='c']" name="managedName">SurveyEngineIObjC</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='k']/field[@name='a']" name="managedName">SurveyEngineKObjA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='k']/field[@name='b']" name="managedName">SurveyEngineKObjB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine']/class[@name='j']/field[@name='a']" name="managedName">SurveyEngineJObjA</attr>
+  
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='b']/field[@name='b']" name="managedName">ManagersBObjB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='d']/field[@name='a']" name="managedName">ManagersDObjA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='g']/field[@name='b']" name="managedName">ManagersGObjB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='g']/field[@name='c']" name="managedName">ManagersGObjC</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='j']/field[@name='a']" name="managedName">ManagersJObjA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='k']/field[@name='b']" name="managedName">ManagersKObjB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='k']/field[@name='c']" name="managedName">ManagersKObjC</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='l']/field[@name='b']" name="managedName">ManagersLObjB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='m']/field[@name='b']" name="managedName">ManagersMObjB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='o']/field[@name='b']" name="managedName">ManagersOObjB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.managers']/class[@name='p']/field[@name='b']" name="managedName">ManagersPObjB</attr>
+  
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.loop']/class[@name='b']/field[@name='a']" name="managedName">RunnerLoopBObjA</attr>
+  
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stacks']/class[@name='a']/field[@name='a']" name="managedName">RunnerStacksAObjA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.runner.stacks']/class[@name='b']/field[@name='a']" name="managedName">RunnerStacksBObjA</attr>
+
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question.domains']/class[@name='b']/field[@name='a']" name="managedName">PackagesQuesDomainBObjA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question.domains']/class[@name='b']/field[@name='b']" name="managedName">PackagesQuesDomainBObjB</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question.domains']/class[@name='b']/field[@name='c']" name="managedName">PackagesQuesDomainBObjC</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.surveyengine.packages.question.domains']/class[@name='b']/field[@name='d']" name="managedName">PackagesQuesDomainBObjD</attr>
+  
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain']/class[@name='c']/field[@name='a']" name="managedName">SyncDomainCObjA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain']/class[@name='g']/field[@name='a']" name="managedName">SyncDomainGObjA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.domain']/class[@name='o']/field[@name='b']" name="managedName">SyncDomainOObjB</attr>
+  
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.request.defaults']/class[@name='b']/field[@name='a']" name="managedName">SyncReqDefaultsBObjA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.sync.request.defaults']/class[@name='c']/field[@name='a']" name="managedName">SyncReqDefaultsCObjA</attr>
+
+  <attr path="api/package[@name='com.confirmit.mobilesdk.trigger']/class[@name='e']/field[@name='a']" name="managedName">TriggerEObjA</attr>
+
+  <attr path="api/package[@name='com.confirmit.mobilesdk.ui']/class[@name='a']/field[@name='a']" name="managedName">UIAObjA</attr>
+  <attr path="api/package[@name='com.confirmit.mobilesdk.ui']/class[@name='b']/field[@name='a']" name="managedName">UIBObjA</attr>
+  
+  <attr path="api/package[@name='com.confirmit.mobilesdk.utils']/class[@name='a']/field[@name='a']" name="managedName">UtilsAObjA</attr>
+  <attr path="api/package[@name='com.confirmit.mobilesdk.utils']/class[@name='a']/field[@name='b']" name="managedName">UtilsAObjB</attr>
+  <attr path="api/package[@name='com.confirmit.mobilesdk.utils']/class[@name='b']/field[@name='a']" name="managedName">UtilsBObjA</attr>
+  <attr path="api/package[@name='com.confirmit.mobilesdk.utils']/class[@name='f']/field[@name='a']" name="managedName">UtilsFObjA</attr>
+  <attr path="api/package[@name='com.confirmit.mobilesdk.utils']/class[@name='g']/field[@name='a']" name="managedName">UtilsGObjA</attr>
+  <attr path="api/package[@name='com.confirmit.mobilesdk.utils']/class[@name='i']/field[@name='a']" name="managedName">UtilsIObjA</attr>
+  
+  <attr path="api/package[@name='com.confirmit.mobilesdk.web']/class[@name='WrappedWebViewClient']/field[@name='a']" name="managedName">WrappedWebViewClientObjA</attr>
+  <attr path="/api/package[@name='com.confirmit.mobilesdk.web']/class[@name='b']/method[@name='onCreate' and count(parameter)=1 and parameter[1][@type='android.os.Bundle']]" name="visibility">protected</attr>
+
+  
+</metadata>
